@@ -1,9 +1,4 @@
-
-![Uploading Screenshot 2026-01-21 at 2.28.04 PM.png…]()
-
-
-
-
+<img width="800" height="483" alt="Screenshot 2026-01-21 at 2 31 05 PM" src="https://github.com/user-attachments/assets/79822f8d-e33e-44ef-9dc8-826d6d6f5c26" />
 
 
 
@@ -15,7 +10,6 @@ A simple, secure, and human-written Online Voting System developed in C.
 This project simulates an election environment using file-based authentication, vote counting, and secure local storage.
 
 It is designed for:
-
 Cybersecurity fundamentals
 File handling & authentication practice
 Secure system design understanding
